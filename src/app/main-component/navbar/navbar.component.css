@@ -1,0 +1,39 @@
+.nav{
+    /* border: 1px solid black; */
+    /* margin : 5px; */
+    padding : 5px;
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(15, 13, 116);
+    position: -webkit-sticky;
+    position: sticky;
+    /* overflow:hidden; */
+    top:0;
+    z-index: 1;
+
+}
+a:hover{
+    background-color: rgb(81, 82, 134);
+    border-radius:5px;
+}
+a{
+    padding: 5px;
+}
+.x{
+    /* border: 1px solid black; */
+    margin : 5px;
+    padding : 5px;
+}
+.y{
+    /* border: 1px solid black; */
+    margin : 5px;
+    padding : 5px;
+}
+a{
+    margin-right: 15px;
+    text-decoration: none;
+    color:white;
+}
+i{
+    margin-right: 3px;
+}

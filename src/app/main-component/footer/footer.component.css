@@ -1,0 +1,25 @@
+.p,.q,.r,.s{
+    width: 200px;
+    background-color: rgb(31, 30, 30);
+    color:white;
+}
+.footer{
+    background-color: rgb(31, 30, 30);
+    display:flex;
+    justify-content:space-around;
+    height:300px;
+    margin-top:200px;
+}
+h2{
+    margin:20px 0px;
+    font-weight: bold;
+    color:rgb(172, 172, 172);
+    
+}
+h4{
+    color:rgb(172, 172, 172);  
+    cursor: pointer; 
+}
+i{
+    margin-right:5px;
+}

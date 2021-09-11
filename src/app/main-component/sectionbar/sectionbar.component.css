@@ -1,0 +1,17 @@
+.sectionBar{
+    /* display:flex; */
+    /* border: 1px solid black; */
+    margin:5px;
+    width : 80%;
+    margin:20px auto;
+}
+h3,hr{
+    display: inline-block;
+    margin-right: 10px;
+}
+hr{
+    width:80%;
+}
+i{
+    margin-right: 10px;
+}

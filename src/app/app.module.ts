@@ -11,6 +11,10 @@ import { FooterComponent } from './main-component/footer/footer.component';
 import { RoutingDemoComponent } from './main-component/routing-demo/routing-demo.component';
 import { RoutingDemo2Component } from './main-component/routing-demo2/routing-demo2.component';
 import { MainComponentComponent } from './main-component/main-component.component';
+import { RegisterComponent } from './register/register.component';
+import { FormsModule } from '@angular/forms';
+import { LoginComponent } from './login/login.component';
+import { CardComponent } from './card/card.component';
 
 @NgModule({
   declarations: [
@@ -22,11 +26,15 @@ import { MainComponentComponent } from './main-component/main-component.componen
     FooterComponent,
     RoutingDemoComponent,
     RoutingDemo2Component,
-    MainComponentComponent
+    MainComponentComponent,
+    RegisterComponent,
+    LoginComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

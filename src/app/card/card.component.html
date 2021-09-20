@@ -1,0 +1,14 @@
+<div class="card01">
+    <div class="imgblock">
+      <img src="{{cardData.imgLink}}" alt="">
+      <h4>{{cardData.nameOfCourse}}</h4>
+    </div>
+    <div class="card11">
+      <p><i class="far fa-play-circle"></i>{{cardData.noOfCourses}} courses</p>
+      <p><i class="fas fa-book"></i>{{cardData.noOfEbooks}} eBooks</p>
+    </div>
+    <p>Created by - Tutorialspoint</p>
+    <p>{{cardData.offer | currency : 'INR'}}<sub><del> {{cardData.actualPrice | currency :'INR'}}</del></sub></p>
+    <p>You save {{funt() | currency : 'INR'}} <span style="background-color: rgb(148, 142, 142);">90% off</span></p>
+    <button><a href="">Buy now</a></button>
+</div>

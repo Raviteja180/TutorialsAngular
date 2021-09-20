@@ -1,0 +1,45 @@
+[
+    
+    {
+        "imgLink" : "https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png",
+        "nameOfCourse" : "FullStack Web Development Prime Pack",
+        "noOfCourses" : 9,
+        "noOfEbooks" : 2,
+        "offer" : 2999,
+        "actualPrice" : 39999
+    },
+    {
+        "imgLink" : "https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png",
+        "nameOfCourse" : "MySQL Technologies Pack",
+        "noOfCourses" : 4,
+        "noOfEbooks" : 2,
+        "offer" : 6999,
+        "actualPrice" : 30999
+    },
+    {
+        "imgLink" : "https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png",
+        "nameOfCourse" : "Complete Python Prime Pack",
+        "noOfCourses" : 6,
+        "noOfEbooks" : 3,
+        "offer" : 999,
+        "actualPrice" : 11999
+    },
+    {
+        "imgLink" : "https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png",
+        "nameOfCourse" : "Java Prime Pack",
+        "noOfCourses" : 4,
+        "noOfEbooks" : 2,
+        "offer" : 10999,
+        "actualPrice" : 30999
+    },
+    {
+        "imgLink" : "https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png",
+        "nameOfCourse" : "Angular8",
+        "noOfCourses" : 6,
+        "noOfEbooks" : 3,
+        "offer" : 21999,
+        "actualPrice" : 31999
+    }
+
+
+]

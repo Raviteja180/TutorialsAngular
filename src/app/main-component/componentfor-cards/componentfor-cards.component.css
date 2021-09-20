@@ -1,11 +1,9 @@
-.blockForCards{
-    /* border: 2px solid black; */
+/* .blockForCards{
     padding: 10px;
     display: flex;
     justify-content:space-around;
     width:80%;
     margin:0 auto;
-    /* margin-bottom:200px; */
     
 }
 .card11{
@@ -37,7 +35,6 @@ button a{
 }
 .card01,.card02,.card03{
     width : 300px;
-    /* border : 1px solid black; */
     background-color: rgb(231, 227, 227);
     box-shadow: 10px 10px 5px rgb(151, 150, 150);
     margin : 2px;
@@ -63,12 +60,10 @@ button a{
     color : white;
 }
 .card01 p,.card02 p,.card03 p{
-    /* margin-right : 10px; */
     border-top : 1px solid black;
     padding : 10px;
 }
 .card01 h4,.card02 h4,.card03 h4{
-    /* border-bottom : 1px solid black; */
     padding : 10px;
 }
 img{
@@ -81,8 +76,15 @@ img{
     border-radius:5px;
     padding : 10px;
     border-bottom:none;
-    /* border: 1px solid black; */
 }
 .card11 p{
     border-top:none;
+} */
+.x{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding : 10px;
 }

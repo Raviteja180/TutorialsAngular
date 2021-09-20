@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import data from "../../../data.json";
 
 @Component({
   selector: 'app-componentfor-cards',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ComponentforCardsComponent implements OnInit {
 
+  cards=data;
   constructor() { }
 
   ngOnInit(): void {
+
   }
 
 }
